@@ -6,7 +6,7 @@
         "followers": "34",
         "following": "23",
         "desc": "Life consists of ups and downs",
-        "profilePic": "http://localhost:4000/images/dilnoza1.jpg"
+        "profilePic": "http://insta-full-app.herokuapp.com/images/dilnoza1.jpg"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "followers": "56",
         "following": "67",
         "desc": "Coding is my life :)",
-        "profilePic": "http://localhost:4000/images/dilnoza2.jpg"
+        "profilePic": "http://insta-full-app.herokuapp.com/images/dilnoza2.jpg"
 
     },
     {
@@ -25,7 +25,7 @@
         "followers": "278",
         "following": "24",
         "desc": "Intilganga tole yor!",
-        "profilePic": "http://localhost:4000/images/mohira2.jpg"
+        "profilePic": "http://insta-full-app.herokuapp.com/images/mohira2.jpg"
     },
     {
         "id": 4,
@@ -34,7 +34,7 @@
         "followers": "1234",
         "following": "8990",
         "desc": "Find yourself in this world",
-        "profilePic": "http://localhost:4000/images/anna1.jpg"
+        "profilePic": "http://insta-full-app.herokuapp.com/images/anna1.jpg"
     },
     {
         "id": 5,
@@ -43,7 +43,7 @@
         "followers": "1234",
         "following": "900",
         "desc":"Love coding",
-        "profilePic": "http://localhost:4000/images/coder2.png"
+        "profilePic": "http://insta-full-app.herokuapp.com/images/coder2.png"
     },
     {
         "id": 6,
@@ -52,7 +52,7 @@
         "followers": "345",
         "following": "500",
         "desc":"Cute girl with flowers",
-        "profilePic": "http://localhost:4000/images/cover9.png"
+        "profilePic": "http://insta-full-app.herokuapp.com/images/cover9.png"
     },
     {
         "id": 7,
@@ -61,7 +61,7 @@
         "followers": "10",
         "following": "450",
         "desc":"My parents my happeness",
-        "profilePic": "http://localhost:4000/images/islamic1.jpg"
+        "profilePic": "http://insta-full-app.herokuapp.com/images/islamic1.jpg"
     },
     {
         "id": 5,
@@ -70,7 +70,7 @@
         "followers": "578",
         "following": "786",
         "desc":"......  :)",
-        "profilePic": "http://localhost:4000/images/cover11.png"
+        "profilePic": "http://insta-full-app.herokuapp.com/images/cover11.png"
     },
     {
         "id": 5,
@@ -79,7 +79,7 @@
         "followers": "632",
         "following": "324",
         "desc":"My job is my life",
-        "profilePic": "http://localhost:4000/images/cover12.png"
+        "profilePic": "http://insta-full-app.herokuapp.com/images/cover12.png"
     }
    
 ]

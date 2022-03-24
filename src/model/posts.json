@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "postImg": "http://localhost:4000/images/koran.jpg",
+        "postComment": "34",
+        "postLike": "12",
+        "userId": "hilola_01"
+    },
+    {
+        "id": 2,
+        "postImg": "http://localhost:4000/images/muslima.jpg",
+        "postComment": "20",
+        "postLike": "90",
+        "userId": "hilola_01"
+    },
+    {
+        "id": 3,
+        "postImg": "http://localhost:4000/images/anna1.jpg",
+        "postComment": "100",
+        "postLike": "90",
+        "userId": "anna_04"
+    },
+    {
+        "id": 4,
+        "postImg": "http://localhost:4000/images/anna2.jpg",
+        "postComment": "50",
+        "postLike": "1",
+        "userId": "anna_04"
+    },
+    {
+        "id": 5,
+        "postImg": "http://localhost:4000/images/mohira1.jpg",
+        "postComment": "90",
+        "postLike": "111",
+        "userId": "mohira_02"
+    },
+    {
+        "id": 6,
+        "postImg": "http://localhost:4000/images/mohira2.jpg",
+        "postComment": "1",
+        "postLike": "0",
+        "userId": "mohira_02"
+    },
+    {
+        "id": 7,
+        "postImg": "http://localhost:4000/images/dilnoza1.jpg",
+        "postComment": "1",
+        "postLike": "0",
+        "userId": "dilnoza_03"
+    },
+    {
+        "id": 8,
+        "postImg": "http://localhost:4000/images/dilnoza2.jpg",
+        "postComment": "1",
+        "postLike": "0",
+        "userId": "dilnoza_03"
+    },
+    {
+        "id": 9,
+        "postImg": "http://localhost:4000/images/html.jpg",
+        "postComment": "1",
+        "postLike": "0",
+        "userId": "lilRose_dev"
+    },
+    {
+        "id": 10,
+        "postImg": "http://localhost:4000/images/girl.jpg",
+        "postComment": "1",
+        "postLike": "4",
+        "userId": "lilRose_dev"
+    },
+    {
+        "id": 11,
+        "postImg": "http://localhost:4000/images/cover9.png",
+        "postComment": "6",
+        "postLike": "5",
+        "userId": "muza_89"
+    },
+    {
+        "id": 12,
+        "postImg": "http://localhost:4000/images/hilola1.jpg",
+        "postComment": "1",
+        "postLike": "4",
+        "userId": "muza_89"
+    },
+    {
+        "id": 13,
+        "postImg": "http://localhost:4000/images/islamic1.jpg",
+        "postComment": "4",
+        "postLike": "3",
+        "userId": "sabohat_23"
+    },
+    {
+        "id": 14,
+        "postImg": "http://localhost:4000/images/muslima.jpg",
+        "postComment": "1",
+        "postLike": "4",
+        "userId": "sabohat_23"
+    },
+    {
+        "id": 15,
+        "postImg": "http://localhost:4000/images/car.jpg",
+        "postComment": "1",
+        "postLike": "4",
+        "userId": "em1n"
+    },
+    {
+        "id": 16,
+        "postImg": "http://localhost:4000/images/guitar.jpg",
+        "postComment": "1",
+        "postLike": "4",
+        "userId": "em1n"
+    },
+    {
+        "id": 17,
+        "postImg": "http://localhost:4000/images/singer.jpg",
+        "postComment": "5",
+        "postLike": "4",
+        "userId": "kahramon"
+    },
+    {
+        "id": 18,
+        "postImg": "http://localhost:4000/images/boy.jpg",
+        "postComment": "1",
+        "postLike": "4",
+        "userId": "kahramon"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "username": "hilola_01",
+        "postCount": "233",
+        "followers": "34",
+        "following": "23",
+        "desc": "Life consists of ups and downs",
+        "profilePic": "http://localhost:4000/images/dilnoza1.jpg"
+    },
+    {
+        "id": 2,
+        "username": "mohira_02",
+        "postCount": "456",
+        "followers": "56",
+        "following": "67",
+        "desc": "Coding is my life :)",
+        "profilePic": "http://localhost:4000/images/dilnoza2.jpg"
+
+    },
+    {
+        "id": 3,
+        "username": "dilnoza_03",
+        "postCount": "98",
+        "followers": "278",
+        "following": "24",
+        "desc": "Intilganga tole yor!",
+        "profilePic": "http://localhost:4000/images/mohira2.jpg"
+    },
+    {
+        "id": 4,
+        "username": "anna_04",
+        "postCount": "876",
+        "followers": "1234",
+        "following": "8990",
+        "desc": "Find yourself in this world",
+        "profilePic": "http://localhost:4000/images/anna1.jpg"
+    },
+    {
+        "id": 5,
+        "username": "lilRose_dev",
+        "postCount": "4",
+        "followers": "1234",
+        "following": "900",
+        "desc":"Love coding",
+        "profilePic": "http://localhost:4000/images/coder2.png"
+    },
+    {
+        "id": 6,
+        "username": "muza_89",
+        "postCount": "2",
+        "followers": "345",
+        "following": "500",
+        "desc":"Cute girl with flowers",
+        "profilePic": "http://localhost:4000/images/cover9.png"
+    },
+    {
+        "id": 7,
+        "username": "sabohat_23",
+        "postCount": "6",
+        "followers": "10",
+        "following": "450",
+        "desc":"My parents my happeness",
+        "profilePic": "http://localhost:4000/images/islamic1.jpg"
+    },
+    {
+        "id": 5,
+        "username": "em1n",
+        "postCount": "5",
+        "followers": "578",
+        "following": "786",
+        "desc":"......  :)",
+        "profilePic": "http://localhost:4000/images/cover11.png"
+    },
+    {
+        "id": 5,
+        "username": "kahramon",
+        "postCount": "345",
+        "followers": "632",
+        "following": "324",
+        "desc":"My job is my life",
+        "profilePic": "http://localhost:4000/images/cover12.png"
+    }
+   
+]
